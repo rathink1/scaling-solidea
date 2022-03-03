@@ -8,7 +8,7 @@ describe("solidea", () => {
 
   const program = anchor.workspace.Solidea as Program<Solidea>;
 
-  it("Is initialized!", async () => {
+  it("Is initialized!", async () => { 
     // Add your test here.
     const tx = await program.rpc.initialize({});
     console.log("Your transaction signature", tx);
