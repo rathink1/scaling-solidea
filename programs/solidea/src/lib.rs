@@ -11,6 +11,5 @@ pub mod solidea {
     }
 }
 
-
 #[derive(Accounts)]
 pub struct Initialize {}
