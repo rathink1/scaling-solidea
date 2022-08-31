@@ -1,6 +1,6 @@
-# Solidea - OS Service Aggregator Platform
+# Solidea - OS Job Aggregator DApp
           
-A simple smart contract written in Rust, using Anchor Javascript framework, deployed on Solana blockchain devnet.
+A simple job aggregation smart contract written in Rust, using Anchor Javascript framework, deployed on Solana blockchain devnet.
 
 **TODO** : 
 1. Build a Vue 3 JavaScript SPA client for frontend to interact with the deployed smart contract.
